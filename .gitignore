@@ -1,0 +1,7 @@
+# Arquivos compilados do Java
+*.class
+/bin/
+
+# Arquivos do Eclipse
+.settings/
+.DS_Store
